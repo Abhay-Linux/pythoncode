@@ -1,1 +1,4 @@
-print("Wassup Buddy!! v9")
+a=('Abhay')
+b=('Mahakk')
+c=('Manvi')
+print(a+c)
